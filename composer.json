@@ -1,6 +1,6 @@
 {
-    "name": "tcg/tcg-common",
-    "description": "The Courier Guy common class for modules.",
+    "name": "tcgl/tcgl-common",
+    "description": "The Courier Guy Locker common class for modules.",
     "type": "library",
     "license": "GPL-3.0",
     "homepage": "https://github.com/CSLoyD/The_Courier_Guy_Locker_Common",

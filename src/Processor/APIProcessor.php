@@ -1,6 +1,6 @@
 <?php
 
-namespace tcgl\Common\Processor;
+namespace Tcgl\Common\Processor;
 
 class APIProcessor
 {

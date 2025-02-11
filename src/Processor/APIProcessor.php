@@ -1,6 +1,6 @@
 <?php
 
-namespace The_Courier_Guy_Locker\Common\Processor;
+namespace tcgl\Common\Processor;
 
 class APIProcessor
 {
